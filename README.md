@@ -7,7 +7,7 @@
 
 **Course Title**: Computer Graphics  
 **Language**: C++  
-**University**: [Your University Name]  
+
 
 **Course Overview**:
 This course introduces the principles and practices of computer graphics, with a strong emphasis on OpenGL using C++. Students will learn the foundational concepts required to create both 2D and 3D graphics applications. Topics covered include graphics programming, rendering techniques, geometric modeling, transformations, lighting, texture mapping, and animation. The course combines theoretical concepts with practical implementation, providing hands-on experience through multiple projects.
