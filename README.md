@@ -1,9 +1,4 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
 ## Authors
 
 - [@masudfcs1](https://www.github.com/masudfcs1)
